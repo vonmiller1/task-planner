@@ -1,0 +1,8 @@
+{
+  "max_tools": 5,
+  "timeout_seconds": 30,
+  "enable_logging": true,
+  "log_dir": "logs",
+  "auto_save_notes": true,
+  "note_file_path": "data/notes.txt"
+}
