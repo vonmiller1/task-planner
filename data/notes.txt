@@ -1,5 +1,4 @@
-RAG project steps include loading documents, chunking text, building a search index, retrieving context, and generating answers.
+RAG project steps include document loading, chunking, retrieval, and answer generation.
 LLM evaluation should consider answer quality, latency, cost, consistency, and safety issues.
 FastAPI is a good choice when turning AI features into a backend service.
 Docker helps package a Python app so it can run more consistently across machines.
-
