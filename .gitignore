@@ -2,4 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .env
-
+logs/
+*.log
+config.json
+test_config.json
